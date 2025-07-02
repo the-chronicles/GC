@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 function Verify() {
   const [card, setCard] = useState("Amazon");
   const [amount, setAmount] = useState("");
-  const [currency, setCurrency] = useState("USD");
+  const [currency, setCurrency] = useState("CAD");
   const [code, setCode] = useState("");
 
   const handleSubmit = (e: React.FormEvent) => {
