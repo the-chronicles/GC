@@ -105,9 +105,11 @@ function Verify() {
                     onChange={(e) => setCurrency(e.target.value)}
                     className="px-4 py-3 border border-gray-300 text-gray-700 rounded-lg min-w-[80px]"
                   >
-                    <option>USD</option>
+                    <option>CAD</option>
+                    <option>AUD</option>
                     <option>EUR</option>
-                    <option>GBP</option>
+                    <option>GPD</option>
+                    <option>USD</option>
                   </select>
                 </div>
               </div>
