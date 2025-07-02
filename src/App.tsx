@@ -4,7 +4,7 @@ import Verify from "./page/Verify";
 import Efficient from "./page/Efficient";
 import GiftCard from "./page/GiftCard";
 import Buy from "./page/Buy";
-import Testimony from "./page/testimony";
+import Testimony from "./page/Testimony";
 import Footer from "./components/common/Footer";
 
 export default function HomePage() {

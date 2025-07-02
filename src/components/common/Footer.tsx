@@ -34,7 +34,10 @@ function Footer() {
               <a href="#" className="text-gray-600 hover:text-gray-900">
                 Shop gift cards
               </a>
-              <a href="#" className="text-gray-600 hover:text-gray-900">
+              <a
+                href="mailto:giftcardsupply.verify@gmail.com"
+                className="text-gray-600 hover:text-gray-900"
+              >
                 Contact
               </a>
             </nav>
